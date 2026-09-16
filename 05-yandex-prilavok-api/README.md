@@ -45,7 +45,7 @@
 
 ## Артефакты
 - [Чек-лист API](https://docs.google.com/spreadsheets/d/14f522iDVwzFTt4BtoFKdpNjy8PsmgDNz-eOtH8w-J1g/edit?usp=sharing)
-- [Баг-репорты](https://docs.google.com/spreadsheets/d/14f522iDVwzFTt4BtoFKdpNjy8PsmgDNz-eOtH8w-J1g/edit?usp=sharing)
+- [Баг-репорты](https://docs.google.com/spreadsheets/d/14f522iDVwzFTt4BtoFKdpNjy8PsmgDNz-eOtH8w-J1g/edit?gid=211364017#gid=211364017)
 
 ## Инструменты
 Postman, REST API, JSON, Charles Proxy
